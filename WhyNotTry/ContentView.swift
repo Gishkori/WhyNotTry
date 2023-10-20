@@ -51,6 +51,7 @@ struct ContentView: View {
             }
             .buttonStyle(.borderedProminent)
             .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
+            .padding()
         }
 
             
